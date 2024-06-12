@@ -14,7 +14,7 @@
 
 <body>
     <header class="cabecalho">
-        <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
+        <img class="cabecalho-imagem" src="images.jpeg" alt="logo nirlei medeiros">
         <ul class="cabecalho-lista">
             <li class="cabecalho-lista-item"><a href="#escola">Escola</a></li>
             <li class="cabecalho-lista-item"><a href="#estudante">Estudante</a></li>
@@ -23,14 +23,12 @@
     <section id="escola">
         <div class="escola-div-conteudo">
             <h2 class="escola-titulo">Sobre a Escola</h2>
-            <p class="escola-texto-um">A Escola Alura foi fundada em 2010 e tem como objetivo ensinar Pensamento
+            <p class="escola-texto-um">A Escola Nirlei Medeiros C M, localizada em Curitiba - PR, é uma instituição de Ensino Fundamental e Médio, pertencente à rede estadual e com caráter público. Oferecendo educação nos Anos Finais do Ensino Fundamental e Ensino Médio, a escola possui regime presencial em turnos diurno e noturno.
                 Computacional, através do ensino de Programação.</p>
-            <p class="escola-texto-dois">A turma mais estudiosa e famosa é a Segunda Série A. Nós somos super unidos e a
-                turma favorita por todos os professores e professoras que nos ajudam!</p>
+            <p class="escola-texto-dois">Destaca-se pela acessibilidade, com corrimão, guarda-corpos, elevador, portas largas e estrutura adaptada para alunos com deficiência. Suas dependências incluem biblioteca, quadra coberta, auditório, laboratório de ciências, cozinha, refeitório, e material didático diversificado como jogos educativos, equipamentos de áudio, materiais culturais, esportivos e pedagógicos. Conta com profissionais qualificados, como bibliotecários, profissionais de saúde, segurança e apoio pedagógico, garantindo um ambiente propício para o aprendizado e cuidado dos alunos.</p>
         </div>
-        <img class="escola-imagem" src="Formula-bro.png" alt="imagem que representa uma professora em sala de aula">
+        <img class="escola-imagem" src="download.jpeg" alt="imagem da infraestrutura interna do colegio">
     </section>
-
     <section id="estudante">
         <h2 class="estudante-titulo">Quem são nossos estudantes?</h2>
         <div class="estudante-todos">
